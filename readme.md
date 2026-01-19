@@ -1,1 +1,1 @@
-# Getting Started with Python Dev from Menil
+# Getting Started with Python Dev from Segales
